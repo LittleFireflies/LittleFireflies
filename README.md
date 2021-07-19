@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello, My Name is Widy! 👋
+
+I'm a Software Developer who mostly focus on mobile apps. I used to be an Android Developer (Java & Kotlin) but right now Flutter (Dart) is my primary language.
+
+Now I'm a Curriculum Developer which responsible for plan, write, and manage Google Cloud and Flutter course in <a href="https://github.com/dicodingacademy">@dicodingacademy</a>.
+
+- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about Flutter, Cloud, and Software Architecture
+- 💬 Feel free to ask me about mobile apps development
+- 📫 How to reach me: widyarso@dicoding.com or <a href="https://www.linkedin.com/in/widdyjp/">LinkedIn</a>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LittleFireflies&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LittleFireflies&layout=compact&langs_count=8&theme=vue"/>
+</a>
+</p>
 
 <!--
 **LittleFireflies/LittleFireflies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
