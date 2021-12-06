@@ -2,12 +2,13 @@
 
 I'm a Software Developer who mostly focus on mobile apps. I used to be an Android Developer (Java & Kotlin) but right now Flutter (Dart) is my primary language.
 
-Now I'm a Curriculum Developer which responsible for plan, write, and manage Google Cloud and Flutter course in <a href="https://github.com/dicodingacademy">@dicodingacademy</a>.
+<!--Now I'm a Software Engineer which responsible for plan, write, and manage Google Cloud and Flutter course in <a href="https://github.com/dicodingacademy">@dicodingacademy</a>.
+-->
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🔭 I’m currently working on <a href="https://finbloxapp.com">Finblox</a>
 - 🌱 I’m currently learning about Flutter, Cloud, and Software Architecture
 - 💬 Feel free to ask me about mobile apps development
-- 📫 How to reach me: widyarso@dicoding.com or <a href="https://www.linkedin.com/in/widdyjp/">LinkedIn</a>
+- 📫 How to reach me: widyjp10@gmail.com or <a href="https://www.linkedin.com/in/widdyjp/">LinkedIn</a>
 
 ### Github Statistic
 <p align="left">
