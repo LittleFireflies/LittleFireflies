@@ -5,7 +5,7 @@ I'm a Software Developer who mostly focus on mobile apps. I used to be an Androi
 <!--Now I'm a Software Engineer which responsible for plan, write, and manage Google Cloud and Flutter course in <a href="https://github.com/dicodingacademy">@dicodingacademy</a>.
 -->
 
-- 🔭 I’m currently working on <a href="https://finbloxapp.com">Finblox</a>
+- 🔭 I’m currently working on <a href="https://www.dropezy.com/">Dropezy</a>
 - 🌱 I’m currently learning about Flutter, Cloud, and Software Architecture
 - 💬 Feel free to ask me about mobile apps development
 - 📫 How to reach me: widyjp10@gmail.com or <a href="https://www.linkedin.com/in/widdyjp/">LinkedIn</a>
